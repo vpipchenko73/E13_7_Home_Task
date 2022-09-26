@@ -1,0 +1,5 @@
+    npm run build   - запуск обычной сборки проекта 
+    npm run build_avto  - запуск сборки с перезапуском в случае изменения в файлах
+    npm run j-server   -  запуск json сервера , файл - database.json на порту - 3001
+    npm run dev  - запуск webpack-dev-server в режиме - development
+    npm run prod  - запуск webpack-dev-server в режиме - production
